@@ -25,7 +25,7 @@
      @foreach($book as $row)
       <tr class="table">
 		  <td style="width: 20%;"><b>{{$row->book_name}}</b></td>
-        <td style="width: 10%;"><img src="../upload/img/book/{{$row->img}}" width="30px"></td>
+        <td style="width: 10%;"><img src="http://localhost:8888/luanvan/upload/img/book/{{$row->img}}" width="30px"></td>
         <td style="width: 50%;">{{$row->book_desc}}</td>
         <td style="width: 10%;"><a href="{{route('books')}}/geteditbook/{{$row->id}}"><i class="fa fa-cog" aria-hidden="true"></i></a>
 			<a href="{{route('books')}}/getdeletebook/{{$row->id}}" onclick="return confirm('Are you sure?')"><i class="fa fa-user-times" aria-hidden="true"></i></a></td>

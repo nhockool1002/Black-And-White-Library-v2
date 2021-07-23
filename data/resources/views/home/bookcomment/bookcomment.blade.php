@@ -9,7 +9,7 @@
                    <li>
                       <div class="cmtbox">
                           <div class="cmtbox-img">
-                                <img src="http://localhost/lv/lib/img/avatar.jpg" alt="" style="width:50px; height:50px;">
+                                <img src="http://localhost:8888/luanvan/lib/img/avatar.jpg" alt="" style="width:50px; height:50px;">
                           </div>
                           <div class="cmtbox-info">
                             <p class="cmtbox-username">

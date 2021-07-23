@@ -31,7 +31,7 @@
 		<br />
 		<label for="username" class="">Hình ảnh :</label>
 		<input type="file" class="form-control" name="authimg" /><br>
-		<img src="/../lv/upload/img/author/{{$auth->img}}" width='60px' /><br/><br>
+		<img src="http://localhost:8888/luanvan/upload/img/author/{{$auth->img}}" width='60px' /><br/><br>
 		<br />
 		<label for="date_of_death" class="">Trích dẫn :</label>
 		<input type="text" class="form-control" name="quote"  value="{{$auth->quote}}" /><br>

@@ -39,19 +39,19 @@
             <p class="infotit-rl">Một số sách</p>
             <br>
             <div class="col-sm-6 col-md-6 col-xs-6 book-rl">
-                <div class="images-rl"><img src="http://localhost/lv/upload/img/book/A6pvllvp6A.jpg" alt="" style="width:120px;height:150px;"></div>
+                <div class="images-rl"><img src="http://localhost:8888/luanvan/upload/img/book/A6pvllvp6A.jpg" alt="" style="width:120px;height:150px;"></div>
                 <div class="name-rl">Ký sự Code dạo</div>
             </div>
             <div class="col-sm-6 col-md-6 col-xs-6 book-rl">
-                <div class="images-rl"><img src="http://localhost/lv/upload/img/book/A6pvllvp6A.jpg" alt="" style="width:120px;height:150px;"></div>
+                <div class="images-rl"><img src="http://localhost:8888/luanvan/upload/img/book/A6pvllvp6A.jpg" alt="" style="width:120px;height:150px;"></div>
                 <div class="name-rl">Ký sự Code dạo</div>
             </div>
             <div class="col-sm-6 col-md-6 col-xs-6 book-rl">
-                <div class="images-rl"><img src="http://localhost/lv/upload/img/book/A6pvllvp6A.jpg" alt="" style="width:120px;height:150px;"></div>
+                <div class="images-rl"><img src="http://localhost:8888/luanvan/upload/img/book/A6pvllvp6A.jpg" alt="" style="width:120px;height:150px;"></div>
                 <div class="name-rl">Ký sự Code dạo</div>
             </div>
             <div class="col-sm-6 col-md-6 col-xs-6 book-rl">
-                <div class="images-rl"><img src="http://localhost/lv/upload/img/book/A6pvllvp6A.jpg" alt="" style="width:120px;height:150px;"></div>
+                <div class="images-rl"><img src="http://localhost:8888/luanvan/upload/img/book/A6pvllvp6A.jpg" alt="" style="width:120px;height:150px;"></div>
                 <div class="name-rl">Ký sự Code dạo</div>
             </div>
             </div>
